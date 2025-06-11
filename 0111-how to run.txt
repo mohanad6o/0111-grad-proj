@@ -1,0 +1,10 @@
+first make sure to download python 3110 
+while setting up python make sure to click on add to path 
+choose windows 64
+open the project file and then write cmd in the title
+write
+pip install -r requirments.txt
+python app.py runserver
+open chrome and write http://127.0.0.1:5000
+password and user will be the same write admin
+then click on start monitoring 
